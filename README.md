@@ -2,8 +2,6 @@
 
 This project aims to be a starting project for every initiative around [Builder.io](https://builder.io) and [Next.js](https://nextjs.org) that requires ISR capabilities and SEO optimizations like having a dynamic `sitemap.xml` and a few other tricks.
 
-If you want to see a live site using this starter go to [Kenzilab.com](https://kenzilab.com).
-
 # Features
 
 - Typescript support ❤️
@@ -41,9 +39,3 @@ You will have to configure the environment variables in the admin panel. Name th
 I refer you to the official [Next.js documentation](https://nextjs.org/docs/deployment).
 
 Although there are many choices out there I recommend exploring Cloudflare Pages. It is easy, powerful, costless and very straightforward.
-
-# Websites using this project
-
-- [Kenzilab.com](https://kenzilab.com)
-
-If you want to list here your project you can open a PR with your url.
